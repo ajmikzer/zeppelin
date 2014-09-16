@@ -52,8 +52,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "October 11-12, 2014"
-typeoutTextValues: '"", "Armenia", "Հայաստան", "Армения"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", " Armenia ", " Հայաստան ", " Армения "'
+typeoutFallback: "Armenia"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register"}
