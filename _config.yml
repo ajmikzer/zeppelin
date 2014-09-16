@@ -69,8 +69,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from Armenia and abroad"}
- - {count: "2", specialCharacter: "+", info: "days", detail: "of open source technologies"}
- - {count: "5", specialCharacter: "+", info: " great speakers", detail: "from Google, Twitter etc."}
+ - {count: "2", specialCharacter: "", info: "days", detail: "of open source technologies"}
+ - {count: "5", specialCharacter: "+", info: "great speakers", detail: "from Google, Twitter etc."}
  - {count: "1", specialCharacter: "", info: "developer event", detail: "in Armenia"}
 
 # Latest News Block
