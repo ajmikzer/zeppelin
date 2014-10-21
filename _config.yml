@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdg.am/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, armenia"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -37,16 +37,18 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/T8dhrWb66b", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Register"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/T8dhrWb66b", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,15 +57,15 @@ eventDate: "October 11-12, 2014"
 typeoutTextValues: '"", " Armenia", " Հայաստան", " Армения"'
 typeoutFallback: "Armenia"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "http://goo.gl/forms/T8dhrWb66b", text: "Become a speaker"}
+ - {permalink: "http://goo.gl/forms/9K0Iu9lZmS", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on sunday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -90,9 +92,9 @@ eventAddressLocality: "Yerevan"
 eventAddressLocalityRegion: ""
 eventPostalCode: "0038"
 eventAddressCountry: "Armenia"
-eventStartTime: "2014-10-11T10:00"
+eventStartTime: "2014-11-22T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-12T20:00"
+eventEndTime: "2014-11-13T20:00"
 eventPlaceCoordinates: "40.196382, 44.479962"
 mapCenterCoordinates: "40.196382, 44.479962"
 mapMobileCenterCoordinates: "40.196382, 44.479962"
