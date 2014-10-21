@@ -127,20 +127,19 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+gdgam/posts", icon: "google-plus"}
+ - {link: "https://facebook.com/gdgarmenia", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdg.am", text: "GDG Armenia"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgarmenia@gmail.com", text: "gdgarmenia@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -148,7 +147,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
