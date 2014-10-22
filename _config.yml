@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/T8dhrWb66b", text: "Become a speaker"}
  - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Register"}
