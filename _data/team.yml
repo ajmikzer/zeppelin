@@ -9,6 +9,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+VardanGrigoryan"}
+    - {name: "twitter", link: "https://twitter.com/ajmikzer"}
     - {name: "facebook", link: "https://fb.com/ajmikzer"}
     - {name: "site", link: "http://grigoryan.biz/"}
 - 
@@ -21,6 +22,5 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VardanPapikyan"}
-    - {name: "facebook", link: "https://fb.com/vardan.papikyan"}
-	- {name: "site", link: "http://papikyan.biz/"}
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
