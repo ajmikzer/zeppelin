@@ -22,5 +22,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+VardanPapikyan"}
+    - {name: "twitter", link: "https://twitter.com/vardanpapikyan"}
+    - {name: "facebook", link: "https://fb.com/vardan.papikyan"}
+    - {name: "site", link: "http://papikyan.biz/"}
