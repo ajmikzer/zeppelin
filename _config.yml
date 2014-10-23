@@ -132,7 +132,6 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 socialLinks:
  - {link: "https://plus.google.com/+gdgam/posts", icon: "google-plus"}
  - {link: "https://facebook.com/gdgarmenia", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
