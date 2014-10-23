@@ -219,9 +219,9 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "", info: "Coming soon"}
- - {title: "1nd Place", image: "", info: "Coming soon"}
- - {title: "3nd Place", image: "", info: "Coming soon"}
+ - {title: "2nd Place", image: "NoImage.jpg", info: "Coming soon"}
+ - {title: "1nd Place", image: "NoImage.jpg", info: "Coming soon"}
+ - {title: "3nd Place", image: "NoImage.jpg", info: "Coming soon"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
