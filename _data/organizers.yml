@@ -2,4 +2,4 @@
   group: "Main organizers"
   elements: 
     - {name: "GDG Armenia", description: "GDG Armenia - Open and volunteer geek community", link: "http://gdg.am", imageUrl: "gdg-armenia.svg"}
-    - {name: "GDG Armenia", description: "GDG Armenia - Open and volunteer geek community", link: "http://gdg.am", imageUrl: "gdg-armenia.svg"}
+    - {name: "TUMO", description: "TUMO - Center for Creative Technologies", link: "http://tumo.org", imageUrl: "tumo.svg"}
