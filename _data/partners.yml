@@ -5,7 +5,7 @@
 - 
   group: "Sponsors"
   elements: 
-    - {name: "X-TECH", description: "X-TECH Creative Studio", link: "http://x-tech.am", imageUrl: "x-tech.jpg"}
+    - {name: "X-TECH", description: "X-TECH Creative Studio", link: "http://x-tech.am", imageUrl: "x-tech.svg"}
 - 
   group: "Information partners"
   elements: 
