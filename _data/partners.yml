@@ -5,7 +5,7 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "X-TECH", description: "X-TECH Creative Studio", link: "https://x-tech.am", imageUrl: "x-tech.svg", width: "170px"}
+    - {name: "X-TECH", description: "X-TECH Creative Studio", link: "http://x-tech.am", imageUrl: "x-tech.svg", width: "170px"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "170px"}
 - 
   group: "Information partners"
