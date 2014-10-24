@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Call for Speakers"
+date:   2014-10-24 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Armenia 2014 will be held 22-23th of November at TUMO Center for Creative Technologies. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -55,13 +55,20 @@ __General__
   * APIs
 * Go (as a language for a Cloud Ready Apps)
 
+##### Startups and Entrepreneurship
+
+* Success Stories
+  * Your awesome technology
+  * Interesting technics and data
+* Your own interesting topic regarding tech startups
+
 
 #### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+__Deadline__ is November 10, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until November 14, 2014.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [gdgarmenia@gmail.com](mailto:gdgarmenia@gmail.com)
