@@ -54,7 +54,7 @@
   title: "CEO"
   bio: ""
   thumbnailUrl: PegorPapazian.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "site", link: "http://bazillionbeings.com/"}
 - 
