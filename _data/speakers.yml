@@ -9,27 +9,3 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AramAyazyan/"}
-- 
-  id: 4
-  name: "Amoor"
-  surname: "Avakian"
-  company: "Ginosi"
-  title: "CTO"
-  bio: '<p>A passion for people running a sound process on products that matter.<br/><br/> As a product developer I execute on the realization of the vision. I focus on customer value with rapid iterations leveraging technological changes, understanding complex markets and delivering customer satisfaction.</p>'
-  thumbnailUrl: AmoorAvakian.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "http://www.ginosi.com"}
-- 
-  id: 5
-  name: "Serik"
-  surname: "Beysenov"
-  company: "GDG Omsk, Luxoft"
-  title: "Software Engineer"
-  bio: "<p>To be added</p>"
-  thumbnailUrl: SerikBeysenov.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://plus.google.com/u/1/102520175692033125056"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
