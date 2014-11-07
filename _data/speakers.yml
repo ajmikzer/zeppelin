@@ -73,3 +73,19 @@
     - {name: "twitter", link: "https://twitter.com/ajmikzer"}
     - {name: "facebook", link: "https://fb.com/ajmikzer"}
     - {name: "site", link: "http://grigoryan.biz/"}
+- 
+  id: 9
+  name: "Vardan"
+  surname: "Papikyan"
+  company: "GDG Armenia"
+  title: "Co-organizer"
+  bio: ""
+  thumbnailUrl: VardanPapikyan.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VardanPapikyan"}
+    - {name: "twitter", link: "https://twitter.com/vardanpapikyan"}
+    - {name: "facebook", link: "https://fb.com/vardan.papikyan"}
+    - {name: "site", link: "http://papikyan.biz/"}
