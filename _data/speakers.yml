@@ -65,7 +65,7 @@
   title: "Co-organizer"
   bio: ""
   thumbnailUrl: VardanGrigoryan.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -81,7 +81,7 @@
   title: "Co-organizer"
   bio: ""
   thumbnailUrl: VardanPapikyan.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
