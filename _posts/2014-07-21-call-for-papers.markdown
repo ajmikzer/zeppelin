@@ -63,7 +63,7 @@ __General__
 * Your own interesting topic regarding tech startups
 
 
-#### Please submit your proposals [here](http://goo.gl/forms/T8dhrWb66b).
+#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
 __Deadline__ is November 10, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
