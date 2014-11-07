@@ -6,6 +6,7 @@
   group: "Sponsors"
   elements: 
     - {name: "X-TECH", description: "X-TECH Creative Studio", link: "http://x-tech.am", imageUrl: "x-tech.svg"}
+    - {name: "Ginosi", description: "Ginosi Apartments", link: "http://www.ginosi.com", imageUrl: "ginosi.svg"}
 - 
   group: "Information partners"
   elements: 
