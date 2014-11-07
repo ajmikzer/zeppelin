@@ -57,3 +57,19 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://bazillionbeings.com/"}
+- 
+  id: 8
+  name: "Vardan"
+  surname: "Grigoryan"
+  company: "Bazillion Beings"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: VardanGrigoryan.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VardanGrigoryan"}
+    - {name: "twitter", link: "https://twitter.com/ajmikzer"}
+    - {name: "facebook", link: "https://fb.com/ajmikzer"}
+    - {name: "site", link: "http://grigoryan.biz/"}
