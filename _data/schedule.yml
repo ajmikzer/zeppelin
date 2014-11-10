@@ -112,3 +112,23 @@
     	endTime: "15:00",
     	sessionIds: [503]
     }
+    - {
+    	startTime: "15:10",
+    	endTime: "17:20",
+    	sessionIds: [016, 203]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "18:30",
+    	sessionIds: [017]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "19:00",
+    	sessionIds: [018]
+    }
+    - {
+    	startTime: "19:00",
+    	endTime: "19:20",
+    	sessionIds: [019]
+    }

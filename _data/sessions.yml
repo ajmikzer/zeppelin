@@ -138,4 +138,33 @@
   subtype: presentation
   speakers: [10]
   language: en
-  complexity: "Fro all"
+  complexity: "For all"
+-
+  id: 016
+  title: "Polymer Polytechnics"
+  description: ""
+  subtype: presentation
+  speakers: [4, 13]
+  language: en
+  complexity: "Beginners and Intermediate"
+-
+  id: 017
+  title: "Hackathon Pitches"
+  description: ""
+  subtype: pitches
+  language: en
+  complexity: "For all"
+-
+  id: 018
+  title: "Judging and winner announcment"
+  description: ""
+  subtype: Judging
+  language: en
+  complexity: "For all"
+-
+  id: 019
+  title: "Closing and group photos"
+  description: ""
+  subtype: Fun
+  language: en
+  complexity: "For all"
