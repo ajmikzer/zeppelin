@@ -1,6 +1,6 @@
 - 
   date: "2014-11-22"
-  dateReadable: "October 22"
+  dateReadable: "November 22"
   tracks: 
     - {title: "Hall", color: "#90be4e"}
     - {title: "Room", color: "#03a9f4"}
@@ -67,7 +67,7 @@
     }
 - 
   date: "2014-11-23"
-  dateReadable: "October 25"
+  dateReadable: "November 23"
   tracks: 
     - {title: "Hall", color: "#90be4e"}
     - {title: "Room", color: "#03a9f4"}
