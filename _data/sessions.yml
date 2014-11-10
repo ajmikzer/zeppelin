@@ -80,8 +80,9 @@
   complexity: "For all"
 -
   id: 008
-  title: "Python (Django) + AngularJS"
+  title: "Evolutionary Machine Learning"
   description: ""
   subtype: presentation
+  speakers: [7]
   language: hy
   complexity: "Intermediate"
