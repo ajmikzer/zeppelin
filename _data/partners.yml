@@ -12,3 +12,4 @@
   elements: 
     - {name: "IT Trend", description: "IT Trend", link: "http://www.ittrend.am", imageUrl: "ittrend.png"}
     - {name: "Counter.am", description: "Counter.am", link: "http://www.counter.am", imageUrl: "counter.svg"}
+    - {name: "iTel.am", description: "iTel.am", link: "http://www.itel.am", imageUrl: "itel.png"}
