@@ -24,15 +24,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+SerikBeisenov"}
 - 
   id: 5
-  name: "Manvel"
-  surname: "Saroyan"
-  company: "EYEO"
-  title: "Software Developer"
+  name: "Amoor"
+  surname: "Avakian"
+  company: "Ginosi"
+  title: "CTO"
   bio: ""
-  thumbnailUrl: ManvelSaroyan.jpg
+  thumbnailUrl: AmoorAvakian.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ManvelSaroyan"}
+    - {name: "site", link: "http://www.ginosi.com"}
 - 
   id: 6
   name: "Al"
@@ -89,3 +89,16 @@
     - {name: "twitter", link: "https://twitter.com/vardanpapikyan"}
     - {name: "facebook", link: "https://fb.com/vardan.papikyan"}
     - {name: "site", link: "http://papikyan.biz/"}
+- 
+  id: 10
+  name: "Manvel"
+  surname: "Saroyan"
+  company: "EYEO"
+  title: "Software Developer"
+  bio: ""
+  thumbnailUrl: ManvelSaroyan.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ManvelSaroyan"}
