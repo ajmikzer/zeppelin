@@ -137,3 +137,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+ArshakKhachatryanXtern"}
     - {name: "facebook", link: "https://www.facebook.com/khachatryan.arshak"}
     - {name: "twitter", link: "https://twitter.com/Arshak97"}
+- 
+  id: 14
+  name: "Grisha"
+  surname: "Tadevosyan"
+  company: "Avaz Inc."
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: GrishaTadevosyan.jpg
+  rockstar: false
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/grishatadevosyan"}
+    - {name: "site", link: "http://avaz.co/"}
