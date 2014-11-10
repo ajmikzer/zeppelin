@@ -86,3 +86,33 @@
   speakers: [7]
   language: en
   complexity: "For all"
+-
+  id: 009
+  title: "Wear Design Sprint"
+  description: ""
+  subtype: workshop
+  speakers: [8]
+  language: hy
+  complexity: "For all"
+-
+  id: 010
+  title: "Python (Django) + AngularJS"
+  description: ""
+  subtype: presentation
+  language: en
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "AngularJS Best Practice"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 012
+  title: "Hackathon Demo Pitches"
+  description: ""
+  subtype: pitches
+  language: en
+  complexity: "For all"

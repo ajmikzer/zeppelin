@@ -50,6 +50,21 @@
     	endTime: "15:00",
     	sessionIds: [503]
     }
+    - {
+    	startTime: "15:10",
+    	endTime: "15:50",
+    	sessionIds: [010, 009]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:50",
+    	sessionIds: [011, 009]
+    }
+    - {
+    	startTime: "16:50",
+    	endTime: "18:00",
+    	sessionIds: [012]
+    }
 - 
   date: "2014-11-23"
   dateReadable: "October 25"
