@@ -106,7 +106,7 @@
   name: "Narek"
   surname: "Mamikonyan"
   company: "BetConstruct"
-  title: "Software Developer"
+  title: "Web Developer"
   bio: ""
   thumbnailUrl: NarekMamikonyan.jpg
   rockstar: false
@@ -124,3 +124,16 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/116640484427138990343/posts"}
+- 
+  id: 13
+  name: "Arshak"
+  surname: "Khachatryan"
+  company: "BetConstruct"
+  title: "Web Developer"
+  bio: ""
+  thumbnailUrl: ArshakKhachatryan.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ArshakKhachatryanXtern"}
+    - {name: "facebook", link: "https://www.facebook.com/khachatryan.arshak"}
+    - {name: "twitter", link: "https://twitter.com/Arshak97"}
