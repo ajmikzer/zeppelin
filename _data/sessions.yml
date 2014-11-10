@@ -55,11 +55,35 @@
   speakers: [8, 9]
   language: hy
   complexity: "For all"
- -
+-
   id: 005
-  title: "Android Lollipop"
+  title: "What's new on Android Lollipop"
   description: ""
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "For all"
+-
+  id: 006
+  title: "At Google Speeds"
+  description: "When you start a product the most crucial aspect is the speed in which you can complete your first sales. You have no time to waste, but so much has to be done, you MUST focus on what really matter. The talk will be about how to use the TONS of free Google Infrastructure available to ensure your main focus stays on your product and your customers."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "For all"
+-
+  id: 007
+  title: "Vostan-CMS: towards Web 3.0 / GGG"
+  description: "Presentation of Vostan-CMS - free/open-source platform that can be used to build the first GGG (web 3.0) web-sites, based on concept of mind-map based human-machine-interaction paradigm and graph-based information management."
+  subtype: presentation
+  speakers: [5]
+  language: hy
+  complexity: "For all"
+-
+  id: 008
+  title: "Python (Django) + AngularJS"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+  language: hy
+  complexity: "Intermediate"
