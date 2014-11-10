@@ -28,7 +28,7 @@
   title: "Unity Game Engine"
   description: ""
   subtype: presentation
-  speakers: [11]
+  speakers: [12]
   language: en
   complexity: "Beginner"
 -
@@ -53,5 +53,5 @@
   description: "Opening ceremony and Keynote"
   subtype: keynote
   speakers: [8, 9]
-  language: uk
+  language: hy
   complexity: "For all"
