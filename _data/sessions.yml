@@ -116,3 +116,26 @@
   subtype: pitches
   language: en
   complexity: "For all"
+-
+  id: 013
+  title: "TOPIC: To be added"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "For all"
+-
+  id: 014
+  title: "TOPIC: To be added"
+  description: ""
+  subtype: presentation
+  language: en
+  complexity: "Entrepreneurship"
+-
+  id: 015
+  title: "AdBlockers - ads free AM zone"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  language: en
+  complexity: "Fro all"
