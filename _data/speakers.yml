@@ -113,3 +113,14 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/nmamikonyan"}
     - {name: "site", link: "https://www.linkedin.com/pub/narek-mamikonyan/64/219/216"}
+- 
+  id: 12
+  name: "Vardan"
+  surname: "Meliksetyan"
+  company: "X-TECH"
+  title: "Software Developer"
+  bio: ""
+  thumbnailUrl: VardanMeliksetyan.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/116640484427138990343/posts"}
