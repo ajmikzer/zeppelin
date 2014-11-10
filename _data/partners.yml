@@ -10,4 +10,4 @@
 - 
   group: "Information partners"
   elements: 
-    - {name: "TBA", description: "TBA", link: "#", imageUrl: "NoImage.jpg", width: "100px"}
+    - {name: "IT Trend", description: "IT Trend", link: "http://www.ittrend.am", imageUrl: "ittrend.png"}
