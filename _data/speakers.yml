@@ -98,7 +98,18 @@
   bio: ""
   thumbnailUrl: ManvelSaroyan.jpg
   rockstar: false
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ManvelSaroyan"}
+    - {name: "site", link: "http://www.linkedin.com/pub/manvel-saroyan/39/8a7/b22/"}
+- 
+  id: 11
+  name: "Narek"
+  surname: "Mamikonyan"
+  company: "BetConstruct"
+  title: "Software Developer"
+  bio: ""
+  thumbnailUrl: NarekMamikonyan.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/nmamikonyan"}
+    - {name: "site", link: "https://www.linkedin.com/pub/narek-mamikonyan/64/219/216"}
