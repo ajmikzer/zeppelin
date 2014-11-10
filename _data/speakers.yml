@@ -149,3 +149,15 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/grishatadevosyan"}
     - {name: "site", link: "http://avaz.co/"}
+- 
+  id: 15
+  name: "Tigran"
+  surname: "Bayburtsyan"
+  company: "Udropin.com"
+  title: "Co-founder"
+  bio: ""
+  thumbnailUrl: TigranBayburtsyan.jpg
+  rockstar: false
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/tigran.bayburtsyan"}
+    - {name: "site", link: "http://udropin.com/"}
