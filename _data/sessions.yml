@@ -63,11 +63,3 @@
   speakers: [4]
   language: en
   complexity: "For all"
- -
-  id: 006
-  title: "At Google Speeds"
-  description: ""
-  subtype: presentation
-  speakers: [5]
-  language: en
-  complexity: "For all"
