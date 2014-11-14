@@ -109,7 +109,7 @@
   description: ""
   subtype: presentation
   speakers: [11]
-  language: hy
+  language: en
   complexity: "Intermediate"
 -
   id: 012
@@ -128,11 +128,11 @@
   complexity: "For all"
 -
   id: 014
-  title: "TOPIC: To be added"
+  title: "Memory Leak Analysis in Android Games"
   description: ""
   subtype: presentation
   language: en
-  complexity: "Entrepreneurship"
+  complexity: "Intermediate"
 -
   id: 015
   title: "AdBlockers - ads free AM zone"
