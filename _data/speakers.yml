@@ -161,3 +161,15 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/tigran.bayburtsyan"}
     - {name: "site", link: "http://udropin.com/"}
+- 
+  id: 16
+  name: "Vahagn"
+  surname: "Poghosyan"
+  company: "Instigate CJSC"
+  title: "Co-founder and CTO"
+  bio: ""
+  thumbnailUrl: VahagnPoghosyan.jpg
+  rockstar: false
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/vahagn34?fref=ts"}
+    - {name: "site", link: "http://www.instigatedesign.com/"}
