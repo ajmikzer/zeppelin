@@ -130,8 +130,9 @@
   id: 014
   title: "Memory Leak Analysis in Android Games"
   description: ""
+  speakers: [17]
   subtype: presentation
-  language: en
+  language: hy
   complexity: "Intermediate"
 -
   id: 015
