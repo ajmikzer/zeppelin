@@ -171,3 +171,11 @@
   subtype: Fun
   language: en
   complexity: "For all"
+-
+  id: 020
+  title: "Raising startup investment and engaging with VCs"
+  description: ""
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "Entrepreneurship"
