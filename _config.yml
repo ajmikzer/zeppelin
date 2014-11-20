@@ -44,9 +44,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "#", text: "Registration is Closed"}
+ - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Registration is Closed"}
 rightNavigationButtons:
- - {link: "#", text: "Registration is Closed"}
+ - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Registration is Closed"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "November 22-23, 2014"
 typeoutTextValues: '"", " Armenia", " Հայաստան", " Армения"'
 typeoutFallback: "Armenia"
 heroButtons:
- - {link: "#", text: "Registration is Closed"}
+ - {link: "http://goo.gl/forms/9K0Iu9lZmS", text: "Registration is Closed"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
