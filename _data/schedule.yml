@@ -52,8 +52,13 @@
     }
     - {
     	startTime: "15:10",
-    	endTime: "15:50",
+    	endTime: "15:40",
     	sessionIds: [010, 009]
+    }
+    - {
+    	startTime: "15:40",
+    	endTime: "16:00",
+    	sessionIds: [002, 009]
     }
     - {
     	startTime: "16:00",
@@ -79,13 +84,8 @@
     }
     - {
     	startTime: "10:00",
-    	endTime: "10:30",
+    	endTime: "10:55",
     	sessionIds: [001, 203]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "10:55",
-        sessionIds: [002, 203]
     }
     - {
         startTime: "11:00",
