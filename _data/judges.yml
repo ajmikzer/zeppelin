@@ -1,22 +1,10 @@
 - 
-  id: 0
-  name: "Coming"
-  surname: "Soon"
-  company: "XXX"
-  title: "YYY"
-  thumbnailUrl: NoImage.jpg
-  social: 
-    - {name: "google-plus", link: "#"}
-    - {name: "twitter", link: "#"}
-    - {name: "github", link: "#"}- 
   id: 3
   name: "Aram"
   surname: "Ayazyan"
   company: "Google"
   title: "Software Engineer"
-  bio: ""
   thumbnailUrl: AramAyazyan.jpg
-  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AramAyazyan/"}
 - 
@@ -25,11 +13,7 @@
   surname: "Beysenov"
   company: "GDG Omsk, Luxoft"
   title: "Software Engineer"
-  bio: ""
   thumbnailUrl: SerikBeysenov.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/102520175692033125056/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+SerikBeisenov"}
 - 
@@ -38,8 +22,6 @@
   surname: "Avakian"
   company: "Ginosi"
   title: "CTO"
-  bio: ""
   thumbnailUrl: AmoorAvakian.jpg
-  rockstar: true
   social: 
     - {name: "site", link: "http://www.ginosi.com"}
