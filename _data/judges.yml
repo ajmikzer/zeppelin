@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 0
   name: "Aram"
   surname: "Ayazyan"
   company: "Google"
@@ -7,21 +7,3 @@
   thumbnailUrl: AramAyazyan.jpg
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AramAyazyan/"}
-- 
-  id: 4
-  name: "Serik"
-  surname: "Beysenov"
-  company: "GDG Omsk, Luxoft"
-  title: "Software Engineer"
-  thumbnailUrl: SerikBeysenov.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+SerikBeisenov"}
-- 
-  id: 5
-  name: "Amoor"
-  surname: "Avakian"
-  company: "Ginosi"
-  title: "CTO"
-  thumbnailUrl: AmoorAvakian.jpg
-  social: 
-    - {name: "site", link: "http://www.ginosi.com"}
