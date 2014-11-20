@@ -8,4 +8,38 @@
   social: 
     - {name: "google-plus", link: "#"}
     - {name: "twitter", link: "#"}
-    - {name: "github", link: "#"}
+    - {name: "github", link: "#"}- 
+  id: 3
+  name: "Aram"
+  surname: "Ayazyan"
+  company: "Google"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: AramAyazyan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AramAyazyan/"}
+- 
+  id: 4
+  name: "Serik"
+  surname: "Beysenov"
+  company: "GDG Omsk, Luxoft"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: SerikBeysenov.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/102520175692033125056/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SerikBeisenov"}
+- 
+  id: 5
+  name: "Amoor"
+  surname: "Avakian"
+  company: "Ginosi"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: AmoorAvakian.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.ginosi.com"}
