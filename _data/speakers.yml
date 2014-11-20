@@ -185,3 +185,14 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+HeghineHakobyan/"}
     - {name: "site", link: "https://www.linkedin.com/in/hakobyanheghine"}
+- 
+  id: 18
+  name: "Yervand"
+  surname: "Sarkisyan"
+  company: "Granatus Ventures"
+  title: "Partner"
+  bio: ""
+  thumbnailUrl: YervandSarkisyan.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://uk.linkedin.com/in/sarkisyan"}
