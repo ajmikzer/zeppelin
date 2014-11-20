@@ -7,3 +7,21 @@
   thumbnailUrl: AramAyazyan.jpg
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AramAyazyan/"}
+- 
+  id: 1
+  name: "Serik"
+  surname: "Beysenov"
+  company: "GDG Omsk, Luxoft"
+  title: "Software Engineer"
+  thumbnailUrl: SerikBeysenov.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SerikBeisenov"}
+- 
+  id: 2
+  name: "Amoor"
+  surname: "Avakian"
+  company: "Ginosi"
+  title: "CTO"
+  thumbnailUrl: AmoorAvakian.jpg
+  social: 
+    - {name: "site", link: "http://www.ginosi.com"}
